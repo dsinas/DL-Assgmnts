@@ -27,3 +27,9 @@
 * [Face Recognition](https://github.com/dsinas/DL-Assgmnts/tree/master/Convolutional%20Neural%20Networks/Face%20Recognition)
 
 * [Neural Style Transfer](https://github.com/dsinas/DL-Assgmnts/tree/master/Convolutional%20Neural%20Networks/Neural%20Style%20Transfer)
+
+### Sequence Models<br>
+
+* [Dinosaurus island - Character level language model](https://github.com/dsinas/DL-Assgmnts/tree/master/Sequence%20Models/Dinosaurus%20island%20-%20Character%20level%20language%20model)
+
+* [Improvise a Jazz solo with an LSTM network](https://github.com/dsinas/DL-Assgmnts/tree/master/Sequence%20Models/Improvise%20a%20Jazz%20solo%20with%20an%20LSTM%20network)
